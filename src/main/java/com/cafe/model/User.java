@@ -16,7 +16,7 @@ import javax.persistence.Table;
 import org.hibernate.validator.constraints.Length;
 
 @Entity
-@Table(name="USER")
+@Table(name="USUARIO")
 public class User implements Serializable {
 	
 	public User() {

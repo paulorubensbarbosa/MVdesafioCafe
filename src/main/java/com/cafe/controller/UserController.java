@@ -16,7 +16,7 @@ import com.cafe.model.User;
 import com.cafe.repository.UserRepository;
 
 @RestController
-@RequestMapping(value="/user")
+@RequestMapping(value="/")
 public class UserController {
 	
 	
